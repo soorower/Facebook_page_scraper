@@ -30,6 +30,4 @@ IT will open m.facebook.com, login automatically, then open each post and collec
                  - Commentator Name
                  - Commentator Comment
 
-
-# If you need "facebook group scraper or any website scraper" contact me: https://www.facebook.com/sorowerxyz/
               
