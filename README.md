@@ -1,6 +1,6 @@
 # Facebook_page_scraper
 
-# If you need "facebook group scraper or any website scraper" contact me: https://www.facebook.com/sorowerxyz/
+## If you need "facebook group scraper or any website scraper" contact me: https://www.facebook.com/sorowerxyz/
 
 
 How it will scrape:
@@ -20,7 +20,7 @@ When finished it will save all the links in an excel(post_links.xlsx)
                  - Your facebook email
                  - Your facebook password ( don't worry its protected )
                  
-IT will open m.facebook.com, login automatically, then open each post and collect these data:
+IT will open https://m.facebook.com/, login automatically, then open each post and collect these data:
                  - Post link
                  - Page Name
                  - Post text
